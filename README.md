@@ -1,7 +1,7 @@
 Hi, I'm Swanand Kirpekar.
 Data Science enthusiastic!! 
 Skills: Machine Learning, Python, SQL
-Looking for new opportunity in Data Science Filed
+Looking for new opportunity in Data Science FieLd
 Reach out to me @ Kirpekarss@gmail.com
 
 <!---
